@@ -1,8 +1,3 @@
-## Olá, me chamo Thierry Nunes!
-
-- 🌱 Atualmente estou aprendendo ReactJS e JavaScript
-- 🤞 Em busca de estágio e da primeira oportunidade
-
 <div align="center">
   <a href="https://github.com/ThierryNunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThierryNunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
